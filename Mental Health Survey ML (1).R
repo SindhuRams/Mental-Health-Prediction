@@ -1,5 +1,4 @@
 #Final Project - Predictive Analytics
-#Team Members - Indrayani Deshmukh, Snehal Bende, Sindhu Ramaswamy
 #Mental Health Survey data OSMI
 
 #Installing the packages and loading them.
