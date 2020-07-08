@@ -23,6 +23,7 @@ these interesting questions.
   
 The project code is done in R and the final report is compiled with R markdown. The detailed steps, data
 analysis and the reuslts are in the following sections of the report.
+
 a) Data Exploration and summary Statistics
 b) Data Munging and Preparation
 c) Feature Engineering
