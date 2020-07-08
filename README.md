@@ -8,7 +8,7 @@ in Tech Survey". This dataset is a survey conducted in 2014 by the Open Sourcing
 to monitor mental health disorders in the Tech industry. OSMI is a non-profit organization and their aim is
 to help people in the tech industry with mental health disorders so they have a good work life balance.
 
-  2.Project Goal
+  2. Project Goal
   
 Our idea behind choosing this dataset is identifying the people who need to seek mental health care in
 the tech industry and, what are the factorsthat are contributing to the increase in mental health problems
@@ -19,7 +19,7 @@ their employees. We are also curious to see if the factors like gender, age or e
 are more susceptible to having mental health disorder? Our goal for the project is to find the answers to
 these interesting questions.
 
-  3.Steps followed for the project
+  3. Steps followed for the project
   
 The project code is done in R and the final report is compiled with R markdown. The detailed steps, data
 analysis and the reuslts are in the following sections of the report.
